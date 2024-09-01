@@ -4,6 +4,9 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
+## THIS PROJECT IS ONLY BUILT FOR IOS, PLEASE FOLLOW IOS ONLY
+## FOR THE SERVER - on mac redirect the flask port to another because ControlCenter runs permanently on port 5000 for mac chips
+
 ## Step 1: Start the Metro Server
 
 First, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
